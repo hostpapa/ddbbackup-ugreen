@@ -17,5 +17,5 @@ The components, their licences and the licence texts are listed at
 
 You can also request a copy of this source code on physical media, at no
 more than our cost of providing it, from
-<https://www.datadepositbox.com/support>. This offer is valid for three
+<https://datadepositbox.com/contact/>. This offer is valid for three
 years after we last distribute the app version.
